@@ -1,1 +1,2 @@
-hlo git
+hlo git this is my first repository .
+my name is chaitra gouda.
